@@ -1,4 +1,3 @@
-```markdown
 # 🤖 AI Robot Estimation & Decision System (판단부)
 
 ## 📝 Project Overview
@@ -26,7 +25,6 @@ estimation/
 ├── .gitignore         # Git 제외 파일 목록
 └── README.md          # 프로젝트 설명
 
-```
 
 ## 🚀 How to Run
 
