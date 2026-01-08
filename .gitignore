@@ -1,0 +1,8 @@
+.env
+.env
+
+#build 폴더들
+/build
+/install
+/log
+/scripts
