@@ -24,7 +24,7 @@ estimation/
 ├── data/              # 테스트용 데이터 또는 로그
 ├── .gitignore         # Git 제외 파일 목록
 └── README.md          # 프로젝트 설명
-
+```
 
 ## 🚀 How to Run
 
@@ -56,13 +56,5 @@ python main.py  # (실행 파일명에 맞게 변경 필요)
 ## 👨‍💻 Author
 
 * **Name:** JinA Kim
-* **Role:** Project Manager & Robot Software Engineer
-* **Contact:** (이메일 주소 기재)
-
----
-
-```
-
-### 💡 수정 팁 (PM의 디테일)
-1.  **`main.py` 부분:** 실제 실행시키는 파이썬 파일 이름이 `app.py`나 `run.py`라면 그 이름으로 바꿔주세요.
-2.  **이메일:** 맨 아래 `Contact`에 아까 설정한 이메일 주소를 적어두면 더 프로페셔널해 보입니다.
+* **Role:** Project Manager & Robot AI Engineer
+* **Contact:** gina7793@gmail.com
