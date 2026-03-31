@@ -62,3 +62,4 @@ python main.py  # (실행 파일명에 맞게 변경 필요)
 * **Name:** JinA Kim
 * **Role:** Project Manager & Robot AI Engineer
 * **Contact:** gina7793@gmail.com
+* **Project Webpage:** https://kimjina-7793.github.io/260119_demo_success/rost-webpage-1st.html
